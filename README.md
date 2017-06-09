@@ -3,6 +3,8 @@
 Writer's block? This can help writers generate new Simpsons episodes for the fans!
 
 It uses the scripts of previous 27 seasons of "The Simpsons" for training, and uses a recurrent neural network. This is Project-3 of Udacity's Deep Learning Foundations Nanodegree.
+
+
 This same network can be trained with any books, TV shows, etc. to generate absolutely new content for the same!
 
 ## Dependencies
