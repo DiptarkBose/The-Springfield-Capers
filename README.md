@@ -10,15 +10,14 @@ This same network can be trained with any books, TV shows, etc. to generate abso
 ## Dependencies
 1. Jupyter Notebook
 2. Numpy
-3. Pandas
-4. Tensorflow
-5. sk-learn
-6. os
-7. tqdm
+3. Tensorflow
+
 
 Install all requirements using:
 ``pip install -r requirements.txt``
 
+## Requirements
+It trains on a huge dataset, and the use of a GPU is strictly advised. I have used FloydHub for training and validating my model.
 
 <a href="https://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>
 
